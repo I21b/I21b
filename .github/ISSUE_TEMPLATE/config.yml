@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: GitHub discussions
+    url: https://github.com/I21b/I21b/discussions
+    about: Discuss or ask questions here.
+  - name: Discord server
+    url: https://discord.com/invite/V4GkcQ6ScP
+    about: You can also chat or ask questions here.
