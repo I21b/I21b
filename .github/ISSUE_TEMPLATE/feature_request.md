@@ -1,6 +1,6 @@
 ---
-name: Feature request⠀
-about: Issue template for mobiles that can't use yaml templates
+name: ⠀⠀Feature request
+about: Markdown template for mobiles that can't use yaml templates
 title: "[Feature] "
 labels: Feature
 assignees: ''

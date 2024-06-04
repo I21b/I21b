@@ -1,7 +1,7 @@
 ---
-name: Bug report⠀
-about: Issue template for mobiles that can't use yaml templates
-title: "----[BUG] "
+name: ⠀⠀Bug report
+about: Markdown template for mobiles that can't use yaml templates
+title: "--> [BUG] "
 labels: Bug
 assignees: ''
 
