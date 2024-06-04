@@ -1,3 +1,9 @@
+![icon.png](icon.png)
+
+Product name
+
+---
+
 Overview / Features
 
 Download / Install
@@ -12,6 +18,7 @@ Links
 
 Licenses
 
+<br>
 
 > [!NOTE]
 > ℹ️
